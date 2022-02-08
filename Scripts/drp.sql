@@ -82,6 +82,7 @@ select count(*) from DENUE
 select * from 
 
 ObtenerPrivilegios
+ActualizarPrivilegios
 ObtenerCuestionarios
 
 ObtenerControles
