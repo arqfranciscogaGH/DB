@@ -1,5 +1,4 @@
-USE [db_a72b95_drpk]
-GO
+
 
 /****** Object:  Table [dbo].[Configuracion]    Script Date: 13/01/2022 12:59:47 p. m. ******/
 SET ANSI_NULLS ON
